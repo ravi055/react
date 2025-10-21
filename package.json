@@ -1,0 +1,25 @@
+{
+  "name": "react_basic",
+  "version": "1.0.0",
+  "description": "learning react",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ravi055/react.git"
+  },
+  "keywords": [
+    "learning-react"
+  ],
+  "author": "Ravi Raj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ravi055/react/issues"
+  },
+  "homepage": "https://github.com/ravi055/react#readme",
+  "devDependencies": {
+    "parcel": "^2.16.0"
+  }
+}
